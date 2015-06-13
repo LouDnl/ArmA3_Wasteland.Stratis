@@ -18,7 +18,7 @@ currentStaticHelis = []; // Storage for the heli marker numbers so that we don't
 //Civilian Vehicle List - Random Spawns
 civilianVehicles =
 [
-	"C_Quadbike_01_F",
+//	"C_Quadbike_01_F",
 	"C_Hatchback_01_F",
 	"C_Hatchback_01_sport_F",
 	"C_SUV_01_F",
@@ -31,14 +31,14 @@ civilianVehicles =
 //Light Military Vehicle List - Random Spawns
 lightMilitaryVehicles =
 [
-	"B_Quadbike_01_F",
-	"O_Quadbike_01_F",
-	"I_Quadbike_01_F",
-	"I_G_Quadbike_01_F",
-//	"O_Truck_02_covered_F",
-//	"I_Truck_02_covered_F",
-//	"O_Truck_02_transport_F",
-//	"I_Truck_02_transport_F",
+//	"B_Quadbike_01_F",
+//	"O_Quadbike_01_F",
+//	"I_Quadbike_01_F",
+//	"I_G_Quadbike_01_F",
+	"O_Truck_02_covered_F",
+	"I_Truck_02_covered_F",
+	"O_Truck_02_transport_F",
+	"I_Truck_02_transport_F",
 	"I_G_Offroad_01_armed_F"
 ];
 
@@ -111,7 +111,9 @@ objectList =
 	"Land_HBarrierWall6_F",
 	"Land_MetalBarrel_F",
 	"Land_Mil_ConcreteWall_F",
-//	"Land_Mil_WallBig_4m_F",
+	"Land_Mil_WallBig_4m_F",
+	"Land_Mil_WallBig_4m_F",
+	"Land_Mil_WallBig_4m_F",
 	"Land_Pipes_large_F",
 	"Land_RampConcrete_F",
 	"Land_RampConcreteHigh_F",
@@ -132,10 +134,11 @@ staticWeaponsList =
 //Object List - Random Helis.
 staticHeliList =
 [
-	"B_Heli_Light_01_F",
+	"C_Heli_Light_01_civil_F",
 	"B_Heli_Light_01_F",
 	"O_Heli_Light_02_unarmed_F",
 	"I_Heli_light_03_unarmed_F"
+	// don't put cargo helicopters here, it doesn't make sense to find them in towns; they spawn in the CivHeli mission
 ];
 
 //Object List - Random Planes.
@@ -171,6 +174,10 @@ vehicleWeapons =
 	"arifle_MX_SW_F",
 	"arifle_MXM_F",
 	"srifle_EBR_F",
+	"srifle_DMR_02_ACO_F",
+	"srifle_DMR_03_ACO_F",
+	"srifle_DMR_05_MRCO_F",
+	"srifle_DMR_06_camo_khs_F",
 	"LMG_Mk200_F",
 	"LMG_Zafir_F"
 ];
@@ -193,10 +200,22 @@ vehicleAddition =
 	"optic_Holosight_smg",
 	"acc_flashlight",
 	"acc_pointer_IR",
+	"bipod_03_F_blk",
 	"Medikit",
 	"Medikit",
 	"FirstAidKit",
-	"ToolKit"
+	"ToolKit",
+	"G_Bandanna_oli",
+	"G_Balaclava_oli",
+	"H_MilCap_dgtl",
+	"H_HelmetIA",
+	"H_HelmetB",
+	"V_Press_F",
+	"V_HarnessO_brn",
+	"V_TacVest_brn",
+	"MiniGrenade",
+	"IEDUrbanSmall_Remote_Mag",
+	"IEDLandSmall_Remote_Mag"
 ];
 
 vehicleAddition2 =
