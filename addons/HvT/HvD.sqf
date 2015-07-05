@@ -1,7 +1,7 @@
 //	@file Version: 1.0
 //	@file Name: HvD.sqf
 //	@file Author: Based on HvT.sqf by Cael817, CRE4MPIE. Rewrite by LouD.
-//	@file Info:a
+//	@file Info:
 
 if (isDedicated) exitWith {};
 waitUntil {!isNull player};
