@@ -75,8 +75,8 @@ if (isServer) then
 	};
 	
 	// Load Donators and NLU members
-	[] execVM (externalConfigFolder + "\donators.sqf");
-	[] execVM (externalConfigFolder + "\nlunited.sqf");
+	//[] execVM (externalConfigFolder + "\donators.sqf");
+	//[] execVM (externalConfigFolder + "\nlunited.sqf");
 };
 
 diag_log "WASTELAND SERVER - Server Compile Finished";
