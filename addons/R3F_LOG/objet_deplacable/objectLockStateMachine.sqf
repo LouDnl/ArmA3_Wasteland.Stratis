@@ -14,11 +14,11 @@ private["_locking", "_object", "_lockState", "_lockDuration", "_stringEscapePerc
 
 _object = _this select 0;
 _lockState = _this select 3;
-
+/*
 _IsProtected = false;
 _IsAllowed = false;
 
-/*//Start donator part
+//Start donator part
 {
 	if(((_object distance getMarkerPos  (_x select 3)) <  (_x select 1))) then
 	{	

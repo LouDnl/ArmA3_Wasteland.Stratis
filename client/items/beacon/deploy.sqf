@@ -16,7 +16,7 @@
 _MaxSpawnbeacons = ceil (["A3W_maxSpawnBeacons", 5] call getPublicVar);
 
 private ["_hasFailed", "_success","_pos","_uid","_beacon","_IsProtected","_IsAllowed","_beacons","_ownedBeacons"];
-
+/*
 _IsProtected = false;
 _IsAllowed = false;
 
@@ -29,7 +29,7 @@ _IsAllowed = false;
 		};
 	};
 } forEach call Donators;
-
+*/
 _beacons = []; 
 { 
 	if (_x getVariable ["ownerUID",""] == getPlayerUID player) then 
