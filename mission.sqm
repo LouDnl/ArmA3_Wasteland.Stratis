@@ -1778,7 +1778,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={3754.8086,10.002267,7944.896};
+					position[]={3754.7986,10.00014,7944.896};
 					id=144;
 					side="LOGIC";
 					vehicle="HeadlessClient_F";
@@ -1999,7 +1999,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={3756.2185,10.308199,7944.9219};
+					position[]={3756.0376,10.280034,7944.896};
 					id=155;
 					side="LOGIC";
 					vehicle="HeadlessClient_F";
