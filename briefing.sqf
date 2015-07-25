@@ -329,7 +329,6 @@ player createDiaryRecord ["changelog",
 <br/> [Added] Intro script
 <br/> [Added] Player controlled IP cameras
 <br/> [Added] Device detector (IP Cameras, Spawn Beacons and Base Lockers)
-<br/> [Added] Donator bases with donator lock state
 <br/> [Added] BluFor and OpFor Base
 <br/> [Added] Mortar to one mission as reward
 <br/> [Added] High value target and Drugs runner
