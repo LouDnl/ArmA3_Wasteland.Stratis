@@ -131,8 +131,8 @@ class Mission
 	randomSeed=14957468;
 	class Intel
 	{
-		briefingName="NL United A3Wasteland Stratis v1.2";
-		overviewText="Wasteland survival sandbox by NL United - visit www.nl-united.nl for more details. Teamspeak: ts.nl-united.nl";
+		briefingName="Cyber Slackers A3Wasteland Stratis v1.2";
+		overviewText="Wasteland survival sandbox by Cyber Slackers - visit www.cyberslackers.net for more details. Teamspeak: ts.cyberslackers.net";
 		resistanceWest=0;
 		timeOfChanges=3e+038;
 		startWeather=0;
