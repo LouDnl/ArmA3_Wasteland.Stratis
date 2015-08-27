@@ -6082,7 +6082,7 @@ class Mission
 		{
 			position[]={5001.6958,-0.0023121578,498.4126};
 			name="teamspeak";
-			text="TEAMSPEAK: TS.NL-UNITED.NL";
+			text="TEAMSPEAK: TS.CYBERSLACKERS.NET";
 			type="mil_box";
 			colorName="ColorWEST";
 			angle=-270;
@@ -6091,7 +6091,7 @@ class Mission
 		{
 			position[]={5001.5562,0.0017053527,398.40039};
 			name="website";
-			text="WEBSITE: WWW.NL-UNITED.NL";
+			text="WEBSITE: WWW.CYBERSLACKERS.NET";
 			type="mil_box";
 			colorName="ColorWEST";
 			angle=-270;
