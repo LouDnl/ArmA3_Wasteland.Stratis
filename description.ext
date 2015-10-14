@@ -169,7 +169,7 @@ class CfgSounds
 							titles[] = {};
 		};
 };
-	
+
 class CfgRemoteExec // applies only to clients
 {
 	class Functions
