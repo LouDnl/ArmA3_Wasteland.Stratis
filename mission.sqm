@@ -131,8 +131,8 @@ class Mission
 	randomSeed=14957468;
 	class Intel
 	{
-		briefingName="Cyber Slackers A3Wasteland Stratis v1.2";
-		overviewText="Wasteland survival sandbox by Cyber Slackers - visit www.cyberslackers.net for more details. Teamspeak: ts.cyberslackers.net";
+		briefingName="GAMERSInc A3Wasteland Stratis v1.2 (GI001A)";
+		overviewText="Wasteland survival sandbox by GAMERSInc - visit www.gamersinc.net for more details. Teamspeak: ts.gamersinc.net";
 		resistanceWest=0;
 		timeOfChanges=3e+038;
 		startWeather=0;
@@ -5511,26 +5511,53 @@ class Mission
 		};
 		class Item85
 		{
+<<<<<<< HEAD
 			position[]={7167.0786,-0.013814623,5980.9556};
 			name="boatSpawn_19";
 			type="Empty";
 			colorName="ColorBlue";
+=======
+			position[]={12023.773,0.090267554,25987.053};
+			name="teamspeak";
+			text="TEAMSPEAK: TS.GAMERSINC.NET";
+			type="mil_box";
+			colorName="ColorEAST";
+			angle=-270;
+>>>>>>> 9237997... Name change and add extra color schem option
 		};
 		class Item86
 		{
+<<<<<<< HEAD
 			position[]={1614.1924,5.5,4955.7427};
 			name="planeSpawn_1";
 			type="Empty";
 			colorName="ColorGreen";
 			angle=15;
+=======
+			position[]={12024.969,0.0023672134,25500.557};
+			name="website";
+			text="WEBSITE: WWW.GAMERSINC.NET";
+			type="mil_box";
+			colorName="ColorEAST";
+			angle=-270;
+>>>>>>> 9237997... Name change and add extra color schem option
 		};
 		class Item87
 		{
+<<<<<<< HEAD
 			position[]={1865.9423,5.5,5911.0781};
 			name="planeSpawn_2";
 			type="Empty";
 			colorName="ColorGreen";
 			angle=195;
+=======
+			position[]={12023.087,-0.047544695,25010.518};
+			name="play";
+			text="PLAY NICE";
+			type="mil_box";
+			colorName="ColorEAST";
+			angle=-270;
+>>>>>>> 9237997... Name change and add extra color schem option
 		};
 		class Item88
 		{
