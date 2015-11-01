@@ -12,15 +12,15 @@
 // 4 - Territory category, currently unused. See territory/README.md for details.
 
 [
-	["TERRITORY_1", "Agia Marina", 10000],
-	["TERRITORY_2", "Stratis Airbase", 10000],
-	["TERRITORY_3", "Airstation Mike", 10000],
-	["TERRITORY_4", "South West Remote", 5000],
-	["TERRITORY_5", "Camp Maxwell", 5000],
-	["TERRITORY_6", "Camp Rogain", 5000],
-	["TERRITORY_7", "Kamino Firig Range", 7500],
-	["TERRITORY_8", "Kill Farm", 5000],
-	["TERRITORY_9", "Stratis Airbase Town", 5000],
-	["TERRITORY_10", "Radar Station", 5000],
-	["TERRITORY_11", "Nisi Bay", 5000]
+	["TERRITORY_1", "Agia Marina", 1500],
+	["TERRITORY_2", "Stratis Airbase", 1500],
+	["TERRITORY_3", "Airstation Mike", 1500],
+	["TERRITORY_4", "South West Remote", 1000],
+	["TERRITORY_5", "Camp Maxwell", 1000],
+	["TERRITORY_6", "Camp Rogain", 1000],
+	["TERRITORY_7", "Kamino Firig Range", 1250],
+	["TERRITORY_8", "Kill Farm", 1000],
+	["TERRITORY_9", "Stratis Airbase Town", 1000],
+	["TERRITORY_10", "Radar Station", 1000],
+	["TERRITORY_11", "Nisi Bay", 1000]
 ]
