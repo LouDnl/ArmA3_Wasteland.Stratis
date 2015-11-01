@@ -31,10 +31,10 @@ storeOwnerConfig = compileFinal str
 // Outfits for store owners
 storeOwnerConfigAppearance = compileFinal str
 [
-	['GenStore1', [['weapon', ''], ['uniform', 'U_B_PilotCoveralls']]],
-	['GenStore2', [['weapon', ''], ['uniform', 'U_O_PilotCoveralls']]],
-	['GenStore3', [['weapon', ''], ['uniform', 'U_I_pilotCoveralls']]],
-	['GenStore4', [['weapon', ''], ['uniform', 'U_I_pilotCoveralls']]],
+	["GenStore1", [["weapon", ""], ["uniform", "U_B_PilotCoveralls"]]],
+	["GenStore2", [["weapon", ""], ["uniform", "U_O_PilotCoveralls"]]],
+	["GenStore3", [["weapon", ""], ["uniform", "U_I_pilotCoveralls"]]],
+	["GenStore4", [["weapon", ""], ["uniform", "U_I_pilotCoveralls"]]],
 
 	
 	["GunStore2", [["weapon", "LMG_Zafir_F"], ["uniform", "U_B_SpecopsUniform_sgg"]]],
@@ -43,9 +43,9 @@ storeOwnerConfigAppearance = compileFinal str
 	["GunStore5", [["weapon", "arifle_MX_GL_Black_F"], ["uniform", "U_IG_Guerilla1_1"]]],	
 	
 
-	['VehStore1', [['weapon', ''], ['uniform', 'U_BG_Guerilla2_1']]],
-	['VehStore2', [['weapon', ''], ['uniform', 'U_Rangemaster']]],
-	['VehStore3', [['weapon', ''], ['uniform', 'U_B_HeliPilotCoveralls']]],
-	['VehStore4', [['weapon', ''], ['uniform', 'U_Competitor']]],
-	['VehStore5', [['weapon', ''], ['uniform', 'U_Competitor']]]
+	["VehStore1", [["weapon", ""], ["uniform", "U_BG_Guerilla2_1"]]],
+	["VehStore2", [["weapon", ""], ["uniform", "U_Rangemaster"]]],
+	["VehStore3", [["weapon", ""], ["uniform", "U_B_HeliPilotCoveralls"]]],
+	["VehStore4", [["weapon", ""], ["uniform", "U_Competitor"]]],
+	["VehStore5", [["weapon", ""], ["uniform", "U_Competitor"]]]
 ];
